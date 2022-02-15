@@ -6,8 +6,7 @@ import './App.css';
 function App() {
   return (
     <div><div className="App">
-      Hellocdhfejkdnjkde
-      jfjfkevsvj
+      bayya from app.js
     </div>
    
   </div>
